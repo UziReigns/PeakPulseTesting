@@ -1,0 +1,21 @@
+button
+{
+    width: 100px;
+    height: 30px;
+}
+textarea
+{
+    width: 1050px;
+    height: 200px;
+    resize: none;
+}
+.input-full
+{
+    width: 1050px;
+}
+.flex 
+{
+    width: 1050px;
+    display: flex;
+    margin:auto;
+}

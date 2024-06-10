@@ -1,0 +1,212 @@
+[
+    {
+        "name": "UCI ARC",
+        "monday_data": [
+            84,
+            223,
+            255
+        ],
+        "tuesday_data": [
+            3,
+            220,
+            288
+        ],
+        "wednesday_data": [
+            54,
+            60,
+            146
+        ],
+        "thursday_data": [
+            68,
+            220,
+            295
+        ],
+        "friday_data": [
+            56,
+            293,
+            296
+        ],
+        "counter": 64,
+        "coordinates": {"lat": 33.64360925670724, "lng": -117.8279709544396}
+    },
+    {
+        "name": "Albertsons",
+        "monday_data": [
+            44,
+            46,
+            194
+        ],
+        "tuesday_data": [
+            28,
+            69,
+            93
+        ],
+        "wednesday_data": [
+            48,
+            70,
+            181
+        ],
+        "thursday_data": [
+            102,
+            105,
+            164
+        ],
+        "friday_data": [
+            19,
+            53,
+            97
+        ],
+        "counter": 23,
+        "coordinates": {"lat": 33.65007492109599, "lng": -117.83143143283107}
+    },
+    {
+        "name": "Irvine Barclay Theatre",
+        "monday_data": [
+            25,
+            109,
+            199
+        ],
+        "tuesday_data": [
+            6,
+            20,
+            105
+        ],
+        "wednesday_data": [
+            74,
+            109,
+            135
+        ],
+        "thursday_data": [
+            13,
+            84,
+            147
+        ],
+        "friday_data": [
+            77,
+            92,
+            121
+        ],
+        "counter": 80,
+        "coordinates": {"lat": 33.649152529885036, "lng": -117.84079744766525}
+    },
+    {
+        "name": "Trader Joe's",
+        "monday_data": [
+            26,
+            47,
+            139
+        ],
+        "tuesday_data": [
+            12,
+            62,
+            165
+        ],
+        "wednesday_data": [
+            44,
+            63,
+            154
+        ],
+        "thursday_data": [
+            10,
+            42,
+            69
+        ],
+        "friday_data": [
+            8,
+            48,
+            104
+        ],
+        "counter": 20,
+        "coordinates": {"lat": 33.650431684618056, "lng": -117.83754226729539}
+    },
+    {
+        "name": "Tacobell",
+        "monday_data": [
+            8,
+            21,
+            41
+        ],
+        "tuesday_data": [
+            18,
+            34,
+            37
+        ],
+        "wednesday_data": [
+            16,
+            41,
+            47
+        ],
+        "thursday_data": [
+            7,
+            43,
+            48
+        ],
+        "friday_data": [
+            25,
+            32,
+            49
+        ],
+        "counter": 26,
+        "coordinates": {"lat": 33.650998987198854, "lng": -117.84091670090179}
+    },
+    {
+        "name": "Chick-fil-A",
+        "monday_data": [
+            18,
+            40,
+            73
+        ],
+        "tuesday_data": [
+            21,
+            91,
+            98
+        ],
+        "wednesday_data": [
+            25,
+            35,
+            86
+        ],
+        "thursday_data": [
+            40,
+            68,
+            84
+        ],
+        "friday_data": [
+            64,
+            67,
+            92
+        ],
+        "counter": 64,
+        "coordinates": {"lat": 33.650497030550525, "lng": -117.83755924702898}
+    },
+    {
+        "name": "In-n-Out",
+        "monday_data": [
+            2,
+            64,
+            81
+        ],
+        "tuesday_data": [
+            23,
+            25,
+            75
+        ],
+        "wednesday_data": [
+            14,
+            22,
+            99
+        ],
+        "thursday_data": [
+            36,
+            43,
+            81
+        ],
+        "friday_data": [
+            33,
+            40,
+            72
+        ],
+        "counter": 62,
+        "coordinates": {"lat": 33.650209374484824, "lng":  -117.8406299108879}
+    }
+]

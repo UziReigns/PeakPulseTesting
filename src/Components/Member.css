@@ -1,0 +1,16 @@
+img
+{
+    width: 200px;
+    height: 200px;
+}
+.padding-right
+{
+    padding-right: 20px;
+}
+.name-background-color
+{
+    padding-left: 5px;
+    background-color: #BCAC9B;
+    color: black;
+    font-weight: 600;
+}

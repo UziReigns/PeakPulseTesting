@@ -1,0 +1,42 @@
+input
+{
+    width: 500px;
+    margin-top: 5px;
+    margin-right: 50px;
+    height: 40px;
+    font-size: 30px;
+}
+.flex img
+{
+    width: 450px;
+    height: 450px;
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ccc; 
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+.flex
+{
+    width: 1000px;
+    padding-top: 20px;
+    display: flex;
+    margin: auto;
+}
+.suggestion {
+    width: 500px;
+    padding: 20px;
+    margin: 5px 0;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.suggestion:hover {
+    background-color: #e0e0e0;
+}
+
+.suggestion:focus {
+    outline: none;
+}
